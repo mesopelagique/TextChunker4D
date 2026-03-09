@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="TextChunker4D" uuid="0F6A1C2E3D4B5A67890123456789ABCD" collation_locale="en">
+	<schema name="DEFAULT_SCHEMA"/>
+	<base_extra>
+		<journal_file journal_file_enabled="true"/>
+	</base_extra>
+</base>

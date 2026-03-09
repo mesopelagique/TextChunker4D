@@ -1,0 +1,37 @@
+{
+	"DATA": {
+		"tables": [
+			"Chunks",
+			"Documents"
+		],
+		"methods": [
+			"_resetData"
+		],
+		"classes": [
+			"Chunks",
+			"ChunksEntity",
+			"ChunksSelection",
+			"Documents",
+			"DocumentsEntity",
+			"DocumentsSelection"
+		]
+	},
+	"Demo": {
+		"methods": [
+			"Answer",
+			"demo",
+			"ImportFolder",
+			"ImportFolderAndAnswer",
+			"ImportMarkdownFile",
+			"Search"
+		]
+	},
+	"tests": {
+		"methods": [
+			"test_folder_import",
+			"test_persistence_import",
+			"test_rag_retrieval"
+		]
+	},
+	"trash": {}
+}

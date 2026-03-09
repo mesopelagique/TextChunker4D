@@ -1,0 +1,12 @@
+{
+	"tests": {
+		"methods": [
+			"test_file_wrappers",
+			"test_format_splitters",
+			"test_json_splitter",
+			"test_markdown_splitter",
+			"test_recursive_splitter"
+		]
+	},
+	"trash": {}
+}

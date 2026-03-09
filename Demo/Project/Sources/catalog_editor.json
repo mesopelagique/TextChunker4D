@@ -1,0 +1,44 @@
+{
+	"tables": {
+		"Chunks": {
+			"color": {
+				"red": 255,
+				"green": 255,
+				"blue": 255,
+				"alpha": 0
+			},
+			"coordinates": {
+				"left": 452.90234375,
+				"top": 20.67578125,
+				"width": 220,
+				"height": 300
+			},
+			"displayable_fields_count": 10
+		},
+		"Documents": {
+			"color": {
+				"red": 255,
+				"green": 255,
+				"blue": 255,
+				"alpha": 0
+			},
+			"coordinates": {
+				"left": 80,
+				"top": 24,
+				"width": 180,
+				"height": 230
+			},
+			"displayable_fields_count": 7
+		}
+	},
+	"relations": {
+		"6A9B3C5D7E8F4012B3C4D5E6F708192A": {
+			"color": {
+				"red": 240,
+				"green": 240,
+				"blue": 240,
+				"alpha": 0
+			}
+		}
+	}
+}
