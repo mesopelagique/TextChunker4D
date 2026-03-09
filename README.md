@@ -4,17 +4,17 @@
 
 The public namespace is:
 
-- `cs.textChunker.TextSplitter`
-- `cs.textChunker.RecursiveTextSplitter`
-- `cs.textChunker.CharacterTextSplitter`
-- `cs.textChunker.MarkdownTextSplitter`
-- `cs.textChunker.RecursiveJsonSplitter`
-- `cs.textChunker.HtmlTextSplitter`
-- `cs.textChunker.LatexTextSplitter`
-- `cs.textChunker.PythonCodeTextSplitter`
-- `cs.textChunker.FourDCodeTextSplitter`
-- `cs.textChunker.JSFrameworkTextSplitter`
-- `cs.textChunker.Utils`
+- [`cs.textChunker.TextSplitter`](Documentation/Classes/TextSplitter.md)
+- [`cs.textChunker.RecursiveTextSplitter`](Documentation/Classes/RecursiveTextSplitter.md)
+- [`cs.textChunker.CharacterTextSplitter`](Documentation/Classes/CharacterTextSplitter.md)
+- [`cs.textChunker.MarkdownTextSplitter`](Documentation/Classes/MarkdownTextSplitter.md)
+- [`cs.textChunker.RecursiveJsonSplitter`](Documentation/Classes/RecursiveJsonSplitter.md)
+- [`cs.textChunker.HtmlTextSplitter`](Documentation/Classes/HtmlTextSplitter.md)
+- [`cs.textChunker.LatexTextSplitter`](Documentation/Classes/LatexTextSplitter.md)
+- [`cs.textChunker.PythonCodeTextSplitter`](Documentation/Classes/PythonCodeTextSplitter.md)
+- [`cs.textChunker.FourDCodeTextSplitter`](Documentation/Classes/FourDCodeTextSplitter.md)
+- [`cs.textChunker.JSFrameworkTextSplitter`](Documentation/Classes/JSFrameworkTextSplitter.md)
+- [`cs.textChunker.Utils`](Documentation/Classes/Utils.md)
 
 RAG, ORDA persistence, and embedding examples now live in [`Demo/README.md`](Demo/README.md).
 
